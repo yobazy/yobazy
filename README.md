@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youthbazzy
 - 👀 I’m interested in Python, HTML, CSS
-- 🌱 I’m currently learning frontend development
+- 🌱 I’m currently learning frontend development and machine learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
