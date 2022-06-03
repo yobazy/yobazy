@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @youthbazzy
-- 👀 I’m interested in Python, HTML, CSS
+- 👀 I’m interested in Python, ML, and the MERN stack!
 - 🌱 I’m currently learning full-stack development and machine learning.
 - 📫 You can reach me at bazil@ualberta.ca
 
