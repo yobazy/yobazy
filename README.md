@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yobazy
 - 👀 I’m interested in Javascript, python, ReactJS and the MERN stack!
-- 🌱 I’m currently learning full-stack development.
-- 📫 You can reach me at bazilkhn@gmail.com or bazil@ualberta.ca
+- 🌱 I’m continuing to enhance my full-stack development skills.
+- 📫 You can reach me at bazilkhn@gmail.com.
 
 <!---
 youthbazzy/youthbazzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
