@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @youthbazzy
+- 👋 Hi, I’m @yobazy
 - 👀 I’m interested in Javascript, python, ReactJS and the MERN stack!
 - 🌱 I’m currently learning full-stack development.
 - 📫 You can reach me at bazilkhn@gmail.com or bazil@ualberta.ca
