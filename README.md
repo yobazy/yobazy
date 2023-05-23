@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yobazy
-- 👀 I’m interested in Javascript, python, ReactJS and the MERN stack!
+- 👀 I’m interested in Javascript, python, and the MERN stack!
 - 🌱 I’m continuing to enhance my full-stack development skills.
 - 📫 You can reach me at bazilkhn@gmail.com.
 
