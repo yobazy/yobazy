@@ -3,7 +3,7 @@
 👀 I’m versed in Javascript/Typescript, Python, and the MERN stack!
 </br>
 <br>
-🌱 Big fan of music, tech, and urban planning!
+🌱 Interested in music, tech, and sustainability!
 </br>
 <br>
 📫 You can reach me at bazilkhn@gmail.com.
