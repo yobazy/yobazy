@@ -1,6 +1,6 @@
 <h1 align="center"><b>Heyo, I'm Bazil </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
-👀 I’m versed in Javascript/Typescript, Python, and the MERN stack!
+👀 I’m versed in Javascript (Typescript), Python, and the MERN stack!
 </br>
 <br>
 🌱 Interested in music, tech, and sustainability!
