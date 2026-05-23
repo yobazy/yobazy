@@ -1,17 +1,14 @@
-<h1 align="center"><b>Heyo, I'm Bazil </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<br>
-👀 I’m versed in Javascript (Typescript), Python, and the MERN stack!
-</br>
-<br>
-🌱 Interested in music, tech, and sustainability!
-</br>
-<br>
-📫 You can reach me at bazilkhn@gmail.com.
-</br>
-
-
-
-<!---
-yobazy/yobazy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Heyo, I'm Bazil                         
+                 
+  Senior software engineer based in Toronto. I build backend systems, data pipelines, and internal tools that teams actually rely on.  
+                                              
+  Currently focused on platform engineering, event-driven architecture, and AI integrations.                                           
+                                          
+  Stack: TypeScript · Node.js · React · Python · C# · Ruby · Azure · Kubernetes · Terraform                                            
+                                                                                                                                       
+  Recent work:                                                                                                                         
+  - Tech lead for a production operations platform at Metrolinx (React/Node.js/MongoDB)                                                
+  - Built an event-driven integration processing real-time rail data across 20 message queues
+  - Live AI voice assistant for automated customer booking (BarberBot (https://github.com/yobazy))                                     
+                                                                                                  
+  📫 bazilkhn@gmail.com · LinkedIn (https://linkedin.com/in/bazilkhan) · heyitsbaz.com (https://www.heyitsbaz.com)   
