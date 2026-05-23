@@ -1,5 +1,5 @@
- Heyo, I'm Bazil                         
-                 
+** Heyo, I'm Bazil                         
+**                 
   Senior software engineer based in Toronto. I build backend systems, data pipelines, and internal tools that teams actually rely on.  
                                               
   Currently focused on platform engineering, event-driven architecture, and AI integrations.                                           
