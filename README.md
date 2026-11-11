@@ -11,7 +11,7 @@ Currently focused on AI integrations and API development, with a strong backgrou
 
 **Recent work**
 - Live AI voice assistant for automated customer booking (BarberBot)
-- Tech lead for a production operations platform at Metrolinx (React · Node.js · MongoDB)
+- Tech lead for a production operations platform (React · Node.js · MongoDB)
 - Built an event-driven integration processing real-time rail data across 20 message queues
 
 **Stack:** TypeScript · Node.js · React · Python · C# · Azure 
