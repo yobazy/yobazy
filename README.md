@@ -14,6 +14,6 @@ Currently focused on AI integrations and API development, with a strong backgrou
 - Tech lead for a production operations platform at Metrolinx (React · Node.js · MongoDB)
 - Built an event-driven integration processing real-time rail data across 20 message queues
 
-**Stack:** TypeScript · Node.js · React · Python · C# · Ruby · Azure · Kubernetes · Terraform
+**Stack:** TypeScript · Node.js · React · Python · C# · Azure 
 
 More about me at [heyitsbaz.com](https://www.heyitsbaz.com)
